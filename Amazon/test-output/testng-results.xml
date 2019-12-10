@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="42753" started-at="2019-12-10T07:13:49 IST" finished-at="2019-12-10T07:14:32 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="42753" started-at="2019-12-10T07:13:49 IST" finished-at="2019-12-10T07:14:32 IST">
+      <class name="Tests.AmazonAppTest">
+        <test-method status="PASS" signature="initialization()[pri:0, instance:Tests.AmazonAppTest@578486a3]" name="initialization" is-config="true" duration-ms="26132" started-at="2019-12-10T07:13:23 IST" finished-at="2019-12-10T07:13:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Tests.AmazonAppTest@578486a3]" name="setUp" is-config="true" duration-ms="388" started-at="2019-12-10T07:13:49 IST" finished-at="2019-12-10T07:13:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="amazonsearchIPhone()[pri:0, instance:Tests.AmazonAppTest@578486a3]" name="amazonsearchIPhone" duration-ms="40777" started-at="2019-12-10T07:13:50 IST" finished-at="2019-12-10T07:14:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazonsearchIPhone -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.AmazonAppTest@578486a3]" name="tearDown" is-config="true" duration-ms="1100" started-at="2019-12-10T07:14:31 IST" finished-at="2019-12-10T07:14:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Tests.AmazonAppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

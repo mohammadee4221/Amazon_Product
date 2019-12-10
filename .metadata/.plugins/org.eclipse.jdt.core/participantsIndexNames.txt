@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+C:\Users\Fameena\Desktop\Amazon_Product\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1643763216.index
+\Amazon\src\main\resources

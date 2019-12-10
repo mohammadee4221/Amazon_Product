@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Product Price Test Automation Test Suite">
+
+	<test>
+		<classes>
+			<class name="AmazonAppPageTest"></class>
+			<class name="BaseTest"></class>
+		</classes>
+	</test>
+</suite>
